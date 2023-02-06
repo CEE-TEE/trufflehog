@@ -12,7 +12,7 @@ require (
 	cloud.google.com/go/secretmanager v1.7.0
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
 	github.com/TheZeroSlave/zapsentry v1.11.0
-	github.com/aws/aws-sdk-go v1.44.83
+	github.com/aws/aws-sdk-go v1.44.194
 	github.com/bill-rich/disk-buffer-reader v0.1.4
 	github.com/bill-rich/go-syslog v0.0.0-20220413021637-49edb52a574c
 	github.com/bitfinexcom/bitfinex-api-go v0.0.0-20210608095005-9e0b26f200fb
@@ -125,9 +125,9 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.0.0-20220909164309-bea034e7d591 // indirect
-	golang.org/x/sys v0.0.0-20220908150016-7ac13a9a928d // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/time v0.0.0-20220722155302-e5dcc9cfc0b9 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	google.golang.org/api v0.96.0 // indirect
